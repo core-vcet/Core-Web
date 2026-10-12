@@ -1,6 +1,6 @@
 # Core-Web
 
-> **CoRE Hub** — The official community platform and website for **CoRE** (Community of Real-time Engineers), Vivekananda College of Engineering & Technology (VCET), Puttur.
+> The official platform and website for **CoRE** (Center of Research and Excellence), Vivekananda College of Engineering & Technology (VCET), Puttur.
 >
 > *"Built by CoRE, for CoRE."*
 
@@ -8,7 +8,7 @@
 
 ## 🌟 Overview
 
-**CoRE Hub** is not just a club website—it is an open-source, community-built platform designed to demonstrate what CoRE members learn, build, achieve, and contribute. It replaces static brochures with a dynamic, living system for showcasing real projects, managing registrations for flagship events (like *CoRE Unbounded* & *CoRE Unleashed*), and tracking member contributions.
+**CoRE** is not just a club website—it is an open-source, community-built platform designed to demonstrate what CoRE members learn, build, achieve, and contribute. It replaces static brochures with a dynamic, living system for showcasing real projects, managing registrations for flagship events (like *CoRE Unbounded* & *CoRE Unleashed*), and tracking member contributions.
 
 Detailed product requirements and system specifications can be found in [PRD.md](file:///c:/PROJECTS/CoRE-Web/PRD.md).
 

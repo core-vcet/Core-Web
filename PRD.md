@@ -3,14 +3,13 @@
 **Project:** New CoRE website and platform, Vivekananda College of Engineering & Technology (VCET), Puttur  
 **Status:** Draft v0.1 for team review  
 **Team Lead:** Jnanesh | **Frontend Co-Leads:** Madhura, Akshatha  
-
-> Working name: **CoRE Hub** (placeholder — the team can rename it).
+**Organization:** CoRE — Center of Research and Excellence  
 
 ---
 
 ## 1. Product Overview
 
-**Product name:** CoRE Hub (working title)
+**Product name:** CoRE (Center of Research and Excellence Platform)
 
 **Vision in one line:** The website should not just be a website *for* CoRE. It should be a project *built by* CoRE.
 
@@ -32,7 +31,7 @@
 
 **How this differs from the Wix site**
 
-|  | Current Wix site | CoRE Hub |
+|  | Current Wix site | CoRE (New Platform) |
 | --- | --- | --- |
 | Nature | Brochure | Living platform (data-driven) |
 | Content | Hand-edited pages | Stored in a database, edited via admin dashboard |
