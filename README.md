@@ -11,10 +11,10 @@
 **CoRE** is not just a club website—it is an open-source, community-built platform designed to demonstrate what CoRE members learn, build, achieve, and contribute. It replaces static brochures with a dynamic, living system for showcasing real projects, managing registrations for flagship events (like *CoRE Unbounded* & *CoRE Unleashed*), and tracking member contributions.
 
 ### 📚 Documentation
-- 📋 [Product Requirements Document (PRD.md)](file:///c:/PROJECTS/CoRE-Web/PRD.md) — Comprehensive functional requirements, scope & milestones.
-- 🏛️ [System Architecture (ARCHITECTURE.md)](file:///c:/PROJECTS/CoRE-Web/ARCHITECTURE.md) — High-level technical architecture, layers & data flow.
-- 🎨 [Design Guidelines (DESIGN.md)](file:///c:/PROJECTS/CoRE-Web/DESIGN.md) — Design system, tokens, typography & accessibility.
-- 🤝 [Contributing Guide (CONTRIBUTING.md)](file:///c:/PROJECTS/CoRE-Web/CONTRIBUTING.md) — Git workflow, setup & PR guidelines.
+- 📋 [Product Requirements Document](docs/PRD.md) — Comprehensive functional requirements, scope & milestones.
+- 🏛️ [System Architecture](docs/ARCHITECTURE.md) — High-level technical architecture, layers & data flow.
+- 🎨 [Design Guidelines](docs/DESIGN.md) — Design system, tokens, typography & accessibility.
+- 🤝 [Contributing Guide](docs/CONTRIBUTING.md) — Git workflow, setup & PR guidelines.
 
 ---
 

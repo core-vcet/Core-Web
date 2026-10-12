@@ -125,12 +125,13 @@ Core-Web/
 │   │   └── adapters/           # External service integration adapters
 │   │       └── cells.adapter.ts# VCET Cells integration adapter
 │   └── types/                  # Global TypeScript interfaces & Zod schemas
+├── docs/                       # Project documentation
+│   ├── ARCHITECTURE.md
+│   ├── CONTRIBUTING.md
+│   ├── DESIGN.md
+│   └── PRD.md
 ├── .env.example                # Template for environment variables
 ├── .gitignore
-├── ARCHITECTURE.md
-├── CONTRIBUTING.md
-├── DESIGN.md
-├── PRD.md
 └── README.md
 ```
 
