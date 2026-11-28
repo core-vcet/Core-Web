@@ -14,7 +14,7 @@ import { Badge } from "@/components/ui/badge";
 import { Input, Textarea, Select, FormField } from "@/components/ui/input";
 import { Skeleton } from "@/components/ui/skeleton";
 import { EmptyState } from "@/components/ui/empty-state";
-
+import { SectionHeading } from "@/components/ui/SectionHeading";
 export default function UIShowcasePage() {
   return (
     <main className="min-h-screen space-y-12 bg-canvas p-8 text-text-high">
@@ -192,6 +192,32 @@ export default function UIShowcasePage() {
           />
         </div>
       </section>
+      <section className="space-y-8">
+  <h2 className="text-xl font-semibold text-high">SectionHeading</h2>
+
+  <SectionHeading title="Title Only" />
+
+  <SectionHeading
+    eyebrow="Featured"
+    title="With Eyebrow and Description"
+    description="Consistent section heading block used across pages."
+  />
+
+  <SectionHeading
+    eyebrow="Projects"
+    title="With Action Link"
+    description="Action link sits on the right on desktop and below on mobile."
+    action={{ label: "View all", href: "/projects" }}
+  />
+
+  <SectionHeading
+    align="center"
+    as="h3"
+    eyebrow="Centered H3"
+    title="Centered Section Heading"
+    description="Centered layout using h3 sizing."
+  />
+</section>
     </main>
   );
 }
